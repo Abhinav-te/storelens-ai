@@ -1,0 +1,13 @@
+file '/home/abhinav/projects/storelens-ai/backend/static/thumbnails/SKU-BOAT-450.jpg'
+duration 3
+file '/home/abhinav/projects/storelens-ai/backend/static/thumbnails/SKU-PORT-KB01.jpg'
+duration 3
+file '/home/abhinav/projects/storelens-ai/backend/static/thumbnails/SKU-NOISE-FIT.jpg'
+duration 3
+file '/home/abhinav/projects/storelens-ai/backend/static/thumbnails/SKU-ZEB-TRANS.jpg'
+duration 3
+file '/home/abhinav/projects/storelens-ai/backend/static/thumbnails/SKU-SANDISK-64.jpg'
+duration 3
+file '/home/abhinav/projects/storelens-ai/backend/static/thumbnails/SKU-JBL-GO3.jpg'
+duration 3
+file '/home/abhinav/projects/storelens-ai/backend/static/thumbnails/SKU-JBL-GO3.jpg'

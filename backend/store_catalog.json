@@ -1,0 +1,104 @@
+[
+  {
+    "sku_id": "SKU-BOAT-450",
+    "item_name": "boAt Rockerz 450 Bluetooth On-Ear Headphones",
+    "brand": "boAt",
+    "category": "Audio",
+    "color": "Luscious Black",
+    "key_specs": [
+      "40mm Dynamic Drivers",
+      "15H Playback",
+      "Voice Assistant Mic"
+    ],
+    "price_inr": 1499,
+    "timestamp_sec": 2.0,
+    "stock_count": 5,
+    "status": "IN_STOCK",
+    "thumbnail_url": "/static/thumbnails/SKU-BOAT-450.jpg?v=1794581916"
+  },
+  {
+    "sku_id": "SKU-PORT-KB01",
+    "item_name": "Portronics Bubble Wireless Keyboard & Mouse Combo",
+    "brand": "Portronics",
+    "category": "Keyboards & Mice",
+    "color": "Arctic White",
+    "key_specs": [
+      "2.4GHz + Dual BT 5.0",
+      "Silent Click",
+      "Multi-device Switch"
+    ],
+    "price_inr": 749,
+    "timestamp_sec": 5.0,
+    "stock_count": 4,
+    "status": "IN_STOCK",
+    "thumbnail_url": "/static/thumbnails/SKU-PORT-KB01.jpg?v=1794581916"
+  },
+  {
+    "sku_id": "SKU-NOISE-FIT",
+    "item_name": "Noise ColorFit Pulse 2 Max 1.85\" Display Smartwatch",
+    "brand": "Noise",
+    "category": "Wearables",
+    "color": "Jet Black",
+    "key_specs": [
+      "1.85'' TFT LCD",
+      "BT Calling",
+      "10-Day Battery Life"
+    ],
+    "price_inr": 1299,
+    "timestamp_sec": 8.0,
+    "stock_count": 2,
+    "status": "LOW_STOCK",
+    "thumbnail_url": "/static/thumbnails/SKU-NOISE-FIT.jpg?v=1794581917"
+  },
+  {
+    "sku_id": "SKU-ZEB-TRANS",
+    "item_name": "Zebronics Transformer Gaming Mouse with RGB",
+    "brand": "Zebronics",
+    "category": "Keyboards & Mice",
+    "color": "Gold & Black",
+    "key_specs": [
+      "3200 DPI Optical Sensor",
+      "6 Buttons",
+      "Breathing LED"
+    ],
+    "price_inr": 399,
+    "timestamp_sec": 11.0,
+    "stock_count": 8,
+    "status": "IN_STOCK",
+    "thumbnail_url": "/static/thumbnails/SKU-ZEB-TRANS.jpg?v=1794581917"
+  },
+  {
+    "sku_id": "SKU-SANDISK-64",
+    "item_name": "SanDisk Ultra Dual Drive Go Type-C 64GB Flash Drive",
+    "brand": "SanDisk",
+    "category": "Storage",
+    "color": "Navy Blue",
+    "key_specs": [
+      "USB 3.1 Gen 1",
+      "Dual USB-C & USB-A",
+      "Up to 150MB/s Read"
+    ],
+    "price_inr": 649,
+    "timestamp_sec": 14.0,
+    "stock_count": 6,
+    "status": "IN_STOCK",
+    "thumbnail_url": "/static/thumbnails/SKU-SANDISK-64.jpg?v=1794581917"
+  },
+  {
+    "sku_id": "SKU-JBL-GO3",
+    "item_name": "JBL Go 3 Ultra-Portable Waterproof Bluetooth Speaker",
+    "brand": "JBL",
+    "category": "Audio",
+    "color": "Squad Camo",
+    "key_specs": [
+      "IP67 Water & Dustproof",
+      "JBL Pro Sound",
+      "5 Hours Playtime"
+    ],
+    "price_inr": 2999,
+    "timestamp_sec": 17.0,
+    "stock_count": 1,
+    "status": "LOW_STOCK",
+    "thumbnail_url": "/static/thumbnails/SKU-JBL-GO3.jpg?v=1794581918"
+  }
+]
